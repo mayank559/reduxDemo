@@ -1,0 +1,6 @@
+.optionContainer li:hover,
+.optionContainer .highlight {
+  background: rgb(238, 147, 162);
+  color: #fff;
+  padding: 5px;
+}
